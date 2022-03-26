@@ -2,4 +2,19 @@ body {
   background-color: #1f2632;
 }
 
+.container {
+  display: grid;
+}
+.container .card {
+  background-color: #323a49;
+  justify-self: center;
+  align-self: center;
+  border-radius: 5px;
+}
+
+.attribution {
+  position: absolute;
+  bottom: 10px;
+}
+
 /*# sourceMappingURL=style.css.map */
